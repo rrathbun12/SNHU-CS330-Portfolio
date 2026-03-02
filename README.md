@@ -6,7 +6,7 @@
 
 ## Project Preview
 
-screenshots/Finish_Line.png
+![Sprint Finish Scene](screenshots/Finish_Line.png)
 ## Overview
 
 This project represents the culmination of my work in computational graphics. I created a low-polygon sprint-finish scene using modular OpenGL primitives. Rather than focusing on high-detail mesh modeling, I emphasized proportion, repetition, lighting realism, and reusable structural systems.
