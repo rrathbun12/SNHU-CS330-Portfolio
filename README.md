@@ -1,6 +1,5 @@
 # Sprint Finish 3D Scene  
 ### CS-330 – Computational Graphics and Visualization  # Sprint Finish 3D Scene  
-### CS-330 – Computational Graphics and Visualization  
 **Author:** Rhys Rathbun  
 
 ---
