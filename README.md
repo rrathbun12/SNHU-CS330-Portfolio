@@ -53,7 +53,6 @@ This project was developed using a course-provided OpenGL framework and primitiv
 - `/3DShapes` – Primitive mesh implementations
 - `/Utilities` – Shaders and textures
 - `/screenshots` – Project preview images
-- `3D-Scene.zip` – Final packaged submission
 - [`Design-Decisions.pdf`](Design-Decisions.pdf) – Project documentation
 - `README.md` – Project overview and reflection
 
